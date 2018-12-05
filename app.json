@@ -1,0 +1,38 @@
+{
+  "pages": [
+    "pages/index/My_oilcard",    
+    "pages/silver/silver",
+    "pages/vip/vip",
+    "pages/mine/mine",
+    "pages/index/tool_select_05",
+    "pages/index/homepage1",
+    "pages/index/agent",
+    "pages/index/homepage2",
+    "pages/index/tool_select_03",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/tool_select_04/tool_select_04"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "油品味",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "selectedIconPath": "img/A.png",
+        "iconPath": "img/A.png"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "日志",
+        "selectedIconPath": "img/A.png",
+        "iconPath": "img/A.png"
+      }
+    ]
+  }
+}
